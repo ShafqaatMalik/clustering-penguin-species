@@ -18,9 +18,9 @@ This project explores clustering techniques to identify and group different peng
 [Palmer Penguins Dataset](https://github.com/allisonhorst/palmerpenguins)
 
 
-## Model Output Screenshots
+## Model Results
 Below are sample outputs from the clustering analysis:
+![alt text](features.png) ![alt text](kmeans.png) ![alt text](Elbow.png)
 
-![Cluster Visualization 1](images/Screenshot (14).png)
-![Cluster Visualization 2](images/Screenshot (15).png)
-![Cluster Visualization 3](images/Screenshot (16).png)
+
+
