@@ -7,6 +7,12 @@ This project explores clustering techniques to identify and group different peng
 - `penguins.csv`: Dataset
 - `requirements.txt`: Python dependencies
 
+## Features
+-  Data cleaning and preprocessing
+-  Exploratory data analysis with visualizations
+-  K-Means clustering for species grouping
+-  Statistical insights on species differentiation
+
 ## Usage
 1. Install dependencies:
    ```
